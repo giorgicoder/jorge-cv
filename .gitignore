@@ -1,0 +1,25 @@
+# ---- Sistema operativo ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# ---- Editores / IDEs ----
+.vscode/*
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# ---- Logs y temporales ----
+*.log
+npm-debug.log*
+*.tmp
+*.bak
+
+# ---- Dependencias / build (por si se añaden más adelante) ----
+node_modules/
+dist/
+build/
+.cache/
